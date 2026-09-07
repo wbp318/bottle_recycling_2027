@@ -27,7 +27,7 @@
 
 # ---- Data / config (normally hidden as data) ----
 *.json    linguist-language=JSON                  linguist-detectable=true
-*.jsonc   linguist-language="JSON with Comments"  linguist-detectable=true
+*.jsonc   linguist-language=json-with-comments  linguist-detectable=true
 *.json5   linguist-language=JSON5                 linguist-detectable=true
 *.yml     linguist-language=YAML                  linguist-detectable=true
 *.yaml    linguist-language=YAML                  linguist-detectable=true
@@ -39,9 +39,9 @@
 *.tsv     linguist-language=TSV                   linguist-detectable=true
 *.sql     linguist-language=SQL                   linguist-detectable=true
 *.graphql linguist-language=GraphQL               linguist-detectable=true
-*.proto   linguist-language="Protocol Buffer"     linguist-detectable=true
-.gitignore     linguist-language="Ignore List"    linguist-detectable=true
-.gitattributes linguist-language="Git Attributes" linguist-detectable=true
+*.proto   linguist-language=protocol-buffer     linguist-detectable=true
+.gitignore     linguist-language=ignore-list    linguist-detectable=true
+.gitattributes linguist-language=git-attributes linguist-detectable=true
 .editorconfig  linguist-language=EditorConfig     linguist-detectable=true
 
 # ---- Styles ----
@@ -61,7 +61,7 @@
 *.svelte  linguist-language=Svelte             linguist-detectable=true
 *.astro   linguist-language=Astro              linguist-detectable=true
 *.py      linguist-language=Python             linguist-detectable=true
-*.ipynb   linguist-language="Jupyter Notebook" linguist-detectable=true
+*.ipynb   linguist-language=jupyter-notebook linguist-detectable=true
 *.rb      linguist-language=Ruby               linguist-detectable=true
 *.php     linguist-language=PHP                linguist-detectable=true
 *.pl      linguist-language=Perl               linguist-detectable=true
@@ -86,7 +86,7 @@
 *.cpp     linguist-language=C++          linguist-detectable=true
 *.cc      linguist-language=C++          linguist-detectable=true
 *.hpp     linguist-language=C++          linguist-detectable=true
-*.cs      linguist-language="C#"         linguist-detectable=true
+*.cs      linguist-language=csharp         linguist-detectable=true
 *.java    linguist-language=Java         linguist-detectable=true
 *.kt      linguist-language=Kotlin       linguist-detectable=true
 *.scala   linguist-language=Scala        linguist-detectable=true
@@ -102,7 +102,7 @@
 *.erl     linguist-language=Erlang       linguist-detectable=true
 *.clj     linguist-language=Clojure      linguist-detectable=true
 *.ml      linguist-language=OCaml        linguist-detectable=true
-*.fs      linguist-language="F#"         linguist-detectable=true
+*.fs      linguist-language=fsharp         linguist-detectable=true
 *.nim     linguist-language=Nim          linguist-detectable=true
 *.v       linguist-language=Verilog      linguist-detectable=true
 *.vhd     linguist-language=VHDL         linguist-detectable=true
