@@ -1,0 +1,171 @@
+<title>Maine Redemption Plan</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F5F7F4; --panel:#FFFFFF; --ink:#1A2622; --muted:#5E6E68; --line:#D5DDD8;
+  --accent:#0C6B4C; --accent-ink:#FFFFFF; --warn:#A8401B; --warn-bg:#FBEDE6; --ok-bg:#E4F2EB;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#111917; --panel:#182220; --ink:#E6ECE9; --muted:#9AAAA3; --line:#2B3834;
+  --accent:#4FB68F; --accent-ink:#0B1512; --warn:#F09468; --warn-bg:#33201A; --ok-bg:#16302A;
+}}
+:root[data-theme="dark"]{
+  --bg:#111917; --panel:#182220; --ink:#E6ECE9; --muted:#9AAAA3; --line:#2B3834;
+  --accent:#4FB68F; --accent-ink:#0B1512; --warn:#F09468; --warn-bg:#33201A; --ok-bg:#16302A;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:16px;line-height:1.55;margin:0}
+main{max-width:76ch;margin:0 auto;padding:40px 20px 80px}
+h1,h2,h3{font-family:"Bricolage Grotesque","IBM Plex Sans",sans-serif;text-wrap:balance;line-height:1.1;margin:0}
+h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:1.5rem;font-weight:700;margin-top:56px;padding-top:18px;border-top:2px solid var(--ink)}
+h3{font-size:1.1rem;font-weight:700;margin-top:28px}
+p{max-width:66ch;margin:14px 0}
+.eyebrow{font-family:var(--mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+.lede{font-size:1.15rem;color:var(--muted);max-width:60ch;margin-top:16px}
+.verdicts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:32px 0 8px}
+.v{background:var(--panel);border:1px solid var(--line);padding:16px 18px}
+.v .tag{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;display:inline-block;padding:3px 8px;margin-bottom:10px}
+.v.go .tag{background:var(--ok-bg);color:var(--accent)}
+.v.maybe .tag{background:var(--line);color:var(--ink)}
+.v.no .tag{background:var(--warn-bg);color:var(--warn)}
+.v strong{display:block;font-family:"Bricolage Grotesque",sans-serif;font-size:1.15rem;margin-bottom:4px}
+.v p{margin:0;font-size:.92rem;color:var(--muted)}
+.callout{border-left:4px solid var(--warn);background:var(--warn-bg);padding:14px 18px;margin:24px 0}
+.callout p{margin:6px 0}
+.note{border-left:4px solid var(--accent);background:var(--ok-bg);padding:14px 18px;margin:24px 0}
+.tbl{overflow-x:auto;margin:20px 0}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:500}
+td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tfoot td{font-weight:600}
+ul,ol{padding-left:22px;max-width:66ch}li{margin:6px 0}
+.small{font-size:.85rem;color:var(--muted)}
+code{font-family:var(--mono);font-size:.9em}
+.src a{color:var(--accent)}
+.src li{font-size:.9rem}
+.stamp{font-family:var(--mono);font-size:.78rem;color:var(--muted);margin-top:6px}
+</style>
+<main>
+<div class="eyebrow">Business plan · Maine first, Michigan later · September 2026</div>
+<h1>Maine Redemption Plan</h1>
+<p class="lede">A licensed container redemption business built only on what the law actually pays for. Maine is a real business with a state-mandated handling fee. Michigan is a retail sideline until its law changes. Wisconsin bottles never cross the bridge.</p>
+<div class="stamp">Figures verified against the state sources listed at the end · planning assumptions marked as such</div>
+
+<div class="verdicts">
+  <div class="v go"><span class="tag">Go</span><strong>Maine redemption center</strong><p>Licensed by DEP. Distributors pay you 6¢ per container on top of refunding the deposit. The only model here that pays an operator directly.</p></div>
+  <div class="v maybe"><span class="tag">Sideline only</span><strong>Michigan party store</strong><p>No independent redemption centers exist. Returns are taken by retailers who sell beverages, with no handling fee.</p></div>
+  <div class="v no"><span class="tag">Do not</span><strong>Wisconsin → Upper Peninsula</strong><p>Redeeming non-Michigan containers is a crime. Over 10,000 containers is a felony, up to 5 years.</p></div>
+</div>
+
+<h2>1. The rules that decide where the money is</h2>
+<p>A deposit is a loan from the customer that the beverage distributor pays back. Nobody keeps the nickel. The only money an operator earns is what the state forces distributors to pay for handling, and of these two states only Maine does that.</p>
+<div class="tbl"><table>
+<thead><tr><th>Item</th><th>Maine</th><th>Michigan</th></tr></thead>
+<tbody>
+<tr><td>Deposit</td><td>5¢ standard · 15¢ wine and liquor over 50 mL</td><td>10¢ on all covered containers</td></tr>
+<tr><td>Who may take returns</td><td>Retailers, licensed redemption centers, bag-drop (CLYNK)</td><td>Dealers only: stores that sell the beverage type in question</td></tr>
+<tr><td>Handling fee to operator</td><td>6¢ per container, indexed to inflation from Jan 2025</td><td>None</td></tr>
+<tr><td>License</td><td>$100 per year from Maine DEP, annual renewal</td><td>No separate license; treasury reporting online from Jan 2026</td></tr>
+<tr><td>Unclaimed deposits</td><td>To the commingling cooperative fund after July 15, 2026</td><td>First $1M to State Police for enforcement, then 75% environment, 25% to retailers</td></tr>
+<tr><td>2025 redemption rate</td><td>69%</td><td>69.4%</td></tr>
+<tr><td>Out-of-state containers</td><td>$100 fine per container; ID and plate recorded above 2,500 containers</td><td>Misdemeanor from 25 containers; up to 1 year for 100 to 10,000; felony above 10,000</td></tr>
+</tbody></table></div>
+
+<div class="callout">
+<p><strong>On the Upper Peninsula idea.</strong> Michigan's enforcement budget exists because of exactly this scheme. Border towns on the Ohio and Indiana lines produced the prosecutions. The UP sits on the Wisconsin line, Wisconsin has no deposit, and any UP store returning unusual volume draws attention fast. Reverse vending machines also reject barcodes not registered for sale in Michigan.</p>
+<p>A UP store that takes only Michigan containers is fine. A UP store that takes truckloads from Green Bay is a felony case with a paper trail in the distributor's reimbursement reports.</p>
+</div>
+
+<h2>2. Maine: the business that actually exists</h2>
+<p>Maine has run redemption centers since 1978 and had about 320 licensed centers before more than 50 closed after 2020 on thin fees. The 2023 modernization raised the fee to 6¢, indexed it to inflation, and forced distributors into a single commingling cooperative so operators sort by material, deposit, and size instead of by brand. That is a better business than the one that was closing, and the closures left gaps in coverage.</p>
+
+<h3>How the cash moves</h3>
+<ol>
+<li>A customer brings containers. You pay the deposit out of your own float, 5¢ or 15¢ each.</li>
+<li>Staff sort into cooperative-approved streams: aluminum, PET, glass, by deposit tier and size.</li>
+<li>The cooperative's contracted agent picks up on a schedule and counts or weighs.</li>
+<li>The cooperative reimburses the deposit plus the handling fee. Your gross margin is the handling fee, nothing else.</li>
+</ol>
+<p class="small">You need working capital to fund the float between paying customers and being reimbursed. Plan on two to four weeks of deposits outstanding.</p>
+
+<h3>Unit economics at three volumes</h3>
+<p>These are planning assumptions, not quotes. Labor is the whole game: a hand-sort line runs roughly 1,500 to 2,500 containers per person-hour depending on mix and whether you use a counting machine.</p>
+<div class="tbl"><table>
+<thead><tr><th>Line item</th><th class="n">2M containers/yr</th><th class="n">4M/yr</th><th class="n">8M/yr</th></tr></thead>
+<tbody>
+<tr><td>Handling fee revenue at 6¢</td><td class="n">$120,000</td><td class="n">$240,000</td><td class="n">$480,000</td></tr>
+<tr><td>Sorting labor at $17/hr loaded, ~2,000 per hr</td><td class="n">−$17,000</td><td class="n">−$34,000</td><td class="n">−$68,000</td></tr>
+<tr><td>Counter and management labor</td><td class="n">−$45,000</td><td class="n">−$70,000</td><td class="n">−$120,000</td></tr>
+<tr><td>Rent, 3,000 to 6,000 sq ft light industrial</td><td class="n">−$30,000</td><td class="n">−$42,000</td><td class="n">−$60,000</td></tr>
+<tr><td>Insurance, utilities, bags, license, bank fees</td><td class="n">−$18,000</td><td class="n">−$26,000</td><td class="n">−$40,000</td></tr>
+<tr><td>Deposit float tied up (capital, not an expense)</td><td class="n">~$8,000</td><td class="n">~$16,000</td><td class="n">~$32,000</td></tr>
+</tbody>
+<tfoot><tr><td>Operating profit before owner pay and tax</td><td class="n">≈ $10,000</td><td class="n">≈ $68,000</td><td class="n">≈ $192,000</td></tr></tfoot>
+</table></div>
+<p>The lesson in the table: a 2-million-container center is a job, not a business. Four million is the floor for a real return. Volume comes from household density, charity drives, and commercial accounts such as bars and restaurants that need pickup.</p>
+
+<h3>Revenue levers beyond the fee</h3>
+<ul>
+<li><strong>Commercial pickup routes.</strong> Bars, restaurants, campgrounds, and event venues will hand over containers for a share of the deposit or for nothing. Each account is guaranteed volume.</li>
+<li><strong>Charity drive hosting.</strong> Maine centers move over $2M a year to nonprofits. Hosting drives brings volume you did not have to market for.</li>
+<li><strong>Two storefronts, one back room.</strong> The license is per site. A second drop-off feeding one sorting floor spreads the fixed cost.</li>
+<li><strong>Scrap value is not yours.</strong> The cooperative owns the material once picked up. Do not plan on selling aluminum.</li>
+</ul>
+
+<h3>Working with partners already in Maine</h3>
+<p>Having people on the ground is the biggest advantage you can have here. Split the roles: the Maine partner signs the lease, holds the DEP license, and runs the counter and commercial accounts. The out-of-state partner funds the float and buildout, and handles bookkeeping and cooperative reporting. Write the operating agreement so the license, lease, and bank line sit with the LLC, not with any one person.</p>
+
+<h2>3. Where to put it in Maine</h2>
+<p>In Maine, a state-line site is the wrong instinct. New Hampshire has no deposit, so a center in Kittery, Berwick, or Fryeburg spends its life proving to DEP that its volume is not coming across the border. Go where Maine households are dense and the nearest center closed.</p>
+<div class="tbl"><table>
+<thead><tr><th>Area</th><th>Why</th><th>Watch out</th></tr></thead>
+<tbody>
+<tr><td>Lewiston–Auburn</td><td>Second-largest metro, working-class density, fewer bag-drop kiosks than Portland</td><td>Two or three incumbents; find the neighborhood they don't cover</td></tr>
+<tr><td>Bangor and Brewer</td><td>Regional hub for the whole north; commercial accounts from bars and UMaine events</td><td>Winter access and parking matter more than rent</td></tr>
+<tr><td>Augusta–Waterville corridor</td><td>State workforce, colleges, closures since 2020 left towns without a center</td><td>Check DEP's current license list for gaps town by town</td></tr>
+<tr><td>Midcoast: Rockland, Belfast, Damariscotta</td><td>Summer volume spikes, campgrounds and restaurants, few competitors</td><td>Off-season volume drops by half; staff seasonally</td></tr>
+<tr><td>Greater Portland</td><td>Most containers in the state</td><td>CLYNK bag-drop at every Hannaford already owns the convenience customer; avoid unless you buy an existing center</td></tr>
+</tbody></table></div>
+<p>The concrete step: request the current licensed-center list from Maine DEP, plot it against town population, and rank towns by residents per center. Anything above about 8,000 residents per center within a 10-minute drive is a candidate. Buying a tired existing center with a customer base is usually cheaper than building from zero.</p>
+
+<h2>4. Michigan: what is legally possible</h2>
+<p>Michigan's law has no redemption centers and no handling fee. Returns are a cost retailers eat because the law makes them. The only way to "run redemption" in Michigan is to own a store that sells beverages, install a reverse vending machine, and be reimbursed 1:1 by distributors, plus a small share of the statewide 25% unclaimed-deposit pool split among all dealers.</p>
+<ul>
+<li><strong>The store is the business.</strong> Beer, wine, and lottery margin pay the rent. Bottle returns bring foot traffic and that is their entire value.</li>
+<li><strong>Reverse vending machines</strong> run roughly $15,000 to $40,000 each and reject non-Michigan barcodes automatically, which is why the fraud scheme never works at scale.</li>
+<li><strong>Reform is live.</strong> Three House bills introduced June 5, 2026 tighten retailer obligations. Earlier proposals would have created paid redemption centers and split unclaimed deposits with them, but none has passed. If that changes, a licensed Maine operation is exactly the résumé that wins a Michigan license.</li>
+<li><strong>UP location.</strong> Marquette, Escanaba, or Sault Ste. Marie work as party-store sites on their own merits. The Wisconsin line adds nothing except risk.</li>
+</ul>
+
+<h2>5. First 90 days, Maine</h2>
+<ol>
+<li>Email <code>bottlebill.dep@maine.gov</code> for the current licensed-center list, the 2026 handling-fee figure after indexing, and the commingling cooperative's sorting spec.</li>
+<li>Pick two candidate towns from the ranking above and have your Maine partner visit the incumbents on a Saturday morning. Count cars for an hour. That is your volume estimate.</li>
+<li>Line up 3,000 to 6,000 square feet with a loading door, on a main road, with parking for ten cars.</li>
+<li>Form the LLC, get general liability and workers' comp quotes, and open a bank line for the deposit float.</li>
+<li>File the Redemption Center License Initial Application with DEP and the $100 fee. Register with the commingling cooperative for pickup.</li>
+<li>Sign five commercial accounts before opening day. Restaurants and a campground are enough to cover the first month's payroll.</li>
+<li>Open with three staff, a bag-count system, and clear signage on out-of-state limits so DEP has nothing to question.</li>
+</ol>
+
+<div class="note">
+<p><strong>What made this look better than it is.</strong> The Parish Brewing label that started this reads "OK+ 10¢ MI" because its deposit line was typed before 2011 and never fixed. It still lists Delaware, which repealed its deposit that year, and Oregon at 5¢, which changed in 2017. Oklahoma has never had a deposit law. The number on a label is not the law; the statutes above are.</p>
+</div>
+
+<h2>Sources</h2>
+<ul class="src">
+<li><a href="https://www.maine.gov/dep/sustainability/bottlebill/index.html">Maine DEP, Beverage Container Redemption Program (license application, cooperative plan)</a></li>
+<li><a href="https://www.bottlebill.org/maine/">Bottle Bill Resource Guide, Maine (fee, deposits, redemption rates, out-of-state penalties)</a></li>
+<li><a href="https://www.wastedive.com/news/maine-governor-bottle-bill-handling-fee-poland-spring/649775/">Waste Dive, Maine raises handling fee to 6¢ (2023)</a></li>
+<li><a href="https://www.mainepublic.org/business-and-economy/2023-03-29/as-redemption-centers-close-maine-seeks-to-modernize-its-bottle-deposit-law">Maine Public, redemption center closures and modernization</a></li>
+<li><a href="https://www.nrcm.org/blog/how-maine-modernized-bottle-bill/">NRCM, how Maine modernized the bottle bill (commingling cooperative)</a></li>
+<li><a href="https://www.michigan.gov/taxes/business-taxes/misc/bottle-deposit">Michigan Treasury, bottle deposit reporting and unclaimed deposit distribution</a></li>
+<li><a href="https://resource-recycling.com/recycling/2026/06/09/three-bill-package-aims-to-revamp-michigans-bottle-return-system/">Resource Recycling, Michigan three-bill package, June 2026 (69.4% redemption rate)</a></li>
+<li><a href="https://www.ncsl.org/environment-and-natural-resources/state-beverage-container-deposit-laws">NCSL, state beverage container deposit laws</a></li>
+<li><a href="https://www.bottlebill.org/index.php/past-campaigns/oklahoma-past-campaigns">Bottle Bill Resource Guide, Oklahoma past campaigns (no law enacted)</a></li>
+</ul>
+<p class="small">Michigan penalty thresholds are from MCL 445.574a. Labor, rent, and throughput figures in section 2 are planning assumptions, not verified operator data; replace them with numbers from the two centers you visit.</p>
+</main>
