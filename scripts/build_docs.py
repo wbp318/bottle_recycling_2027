@@ -234,6 +234,7 @@ def build_badges():
         f"[![Repo size]({shield}/repo-size/{SLUG})]({REPO})",
     ]
     project = [
+        badge("license", "all rights reserved", "critical", f"{REPO}/blob/main/LICENSE"),
         badge("state", "Maine", "0C6B4C", "https://www.maine.gov/dep/sustainability/bottlebill/index.html"),
         badge("status", "planning", "yellow", f"{REPO}/blob/main/PLAN.md"),
         badge("target", "2027 opening", "blue", f"{REPO}/blob/main/PLAN.md#4-first-90-days"),
