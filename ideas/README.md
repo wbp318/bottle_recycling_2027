@@ -134,7 +134,7 @@ flowchart LR
 
 ## Check these before using any land
 
-These are tracked as issues [#13](../../../issues/13), [#14](../../../issues/14), and [#16](../../../issues/16). Prices to verify are in [#15](../../../issues/15).
+These are tracked as issues [#13](https://github.com/wbp318/bottle_recycling_2027/issues/13), [#14](https://github.com/wbp318/bottle_recycling_2027/issues/14), and [#16](https://github.com/wbp318/bottle_recycling_2027/issues/16). Prices to verify are in [#15](https://github.com/wbp318/bottle_recycling_2027/issues/15).
 
 - **Current-use tax.** If the farm is enrolled in Maine's Farmland current-use program, converting enrolled acres to commercial use can trigger a withdrawal penalty of about five years of tax savings plus interest ([36 M.R.S. §1112-C](https://legislature.maine.gov/statutes/36/title36sec1112-C.pdf)). Keep new uses off enrolled acres, or carve them out first.
 - **Sludge and PFAS history.** Maine banned spreading sewage sludge on land in 2022 because of PFAS ([NACWA](https://www.nacwa.org/news-publications/news-detail/2022/04/20/maine-legislature-passes-bill-prohibiting-land-application-of-biosolids-governor-expected-to-sign)). Ask whether sludge was ever spread on this farm; contamination would affect every land-based idea.
