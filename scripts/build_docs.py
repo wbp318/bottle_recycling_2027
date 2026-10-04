@@ -28,6 +28,7 @@ SLUG = "wbp318/maine-business-2027"
 
 # Which charts go after which plan heading (matched on the heading text).
 PLACEMENT = {
+    "Out-of-state containers: staying compliant": ["13"],
     "How the cash moves": ["01", "02"],
     "Unit economics at three volumes": ["08"],
     "Working with partners already in Maine": ["05"],

@@ -28,6 +28,56 @@ A deposit is a loan from the customer that the beverage distributor pays back. N
 | 2025 redemption rate | 69%, down from 77% in 2023 |
 | Out-of-state containers | $100 fine per container; ID and plate recorded above 2,500 containers |
 
+### Out-of-state containers: staying compliant
+
+Where the drink was made doesn't matter. A container is redeemable in Maine if it carries a Maine deposit label registered with DEP, and on the license application the center certifies it will accept every such container. What the law targets is containers _bought_ outside Maine, mostly in New Hampshire, which has no deposit, and brought here to collect a deposit nobody paid. Many labels list several states, so the label alone can't prove where a container was sold.
+
+| Rule | What it means for us |
+| --- | --- |
+| Only registered Maine labels are redeemable | Reject containers without a Maine deposit label, and hand them back |
+| $100 fine per container for _accepting_ containers bought out of state | The fine falls on the center, not just the customer. One bad pallet could cost more than a year's profit |
+| Anyone returning more than 2,500 containers at once gives name, address, and plate every time (nonprofits exempt) | Log every large return; keep the log with the cooperative pickup records |
+
+**Our intake procedure:**
+
+1. **Labels:** the counter checks for a registered Maine label and rejects anything without one.
+2. **Large returns:** any return over 2,500 containers gets the name, address, and plate logged, every time.
+3. **Commercial accounts:** each signs a written agreement stating its containers were sold in Maine, and its volume is tracked month to month.
+4. **Bag-drops:** bag-drop customers hold registered accounts with an address on file, so no bag is anonymous.
+5. **Red flags:** unusual volume, repeat pallet-sized returns, or customers from far away are refused or escalated, and the decision is noted.
+6. **Location:** a farm in Kennebec or the Midcoast sits far from the New Hampshire line. That is one reason the plan avoids state-line towns.
+
+_The $100 fine and the 2,500-container rule are from the Bottle Bill Resource Guide's summary of 38 M.R.S. §§3101–3119; confirm the current text and any record-keeping requirements with DEP._
+
+#### Out-of-state container check at intake
+
+Containers bought outside Maine carry a $100 fine per container for the center that accepts them, and returns over 2,500 containers need name, address, and plate.
+
+```mermaid
+flowchart TD
+    IN([Customer or account brings containers]) --> LBL{Registered Maine<br/>deposit label?}
+    LBL -->|No| BACK[Hand back, not redeemable]
+    LBL -->|Yes| WHO{Who is returning?}
+    WHO -->|Commercial pickup account| ACCT{Signed agreement that<br/>containers were sold in Maine,<br/>volume in its normal range?}
+    WHO -->|Bag-drop customer| BAG{Registered account<br/>with address on file?}
+    WHO -->|Walk-in| SIZE{More than 2,500<br/>containers at once?}
+    ACCT -->|Yes| COUNT
+    ACCT -->|No| FLAG
+    BAG -->|Yes| SIZE
+    BAG -->|No| HOLD[Hold the bag until the<br/>customer registers]
+    SIZE -->|No| RED{Red flags?<br/>Pallet loads, repeat bulk,<br/>far-away customer}
+    SIZE -->|Yes, nonprofit| RED
+    SIZE -->|Yes| LOG[Log name, address,<br/>license plate]
+    LOG --> RED
+    RED -->|No| COUNT[Count, pay deposit,<br/>sort into streams]
+    RED -->|Yes| FLAG[Refuse or escalate to<br/>the manager; note the decision]
+
+    classDef bad fill:#FBEDE6,stroke:#A8401B,color:#1A2622
+    classDef good fill:#E4F2EB,stroke:#0C6B4C,color:#1A2622
+    class BACK,FLAG,HOLD bad
+    class COUNT good
+```
+
 ## 2. The business
 
 Maine has run redemption centers since 1978 and had about 320 licensed centers before more than 50 closed after 2020 on thin fees. The 2023 modernization raised the fee to 6¢, indexed it to inflation, and forced distributors into a single commingling cooperative so operators sort by material, deposit, and size instead of by brand. That is a better business than the one that was closing, and the closures left gaps in coverage.
