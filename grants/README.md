@@ -4,10 +4,10 @@ Everything we found that could fund the redemption center, the farm, the side bu
 
 | Page | Covers |
 | --- | --- |
-| [redemption-center.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md) | Recycling and bottle-bill money, reverse vending machine funding, waste grants |
-| [farm-and-agriculture.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/farm-and-agriculture.md) | NRCS, FSA, DACF, woodlot, dairy, and private farm funds |
-| [small-business-and-rural.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md) | Loans, guarantees, free advising, workforce, tourism, tax credits |
-| [energy-and-buildings.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) | Efficiency Maine, REAP, depreciation, solar, line extensions, septic |
+| [redemption-center.md](https://github.com/wbp318/maine-business-2027/blob/main/grants/redemption-center.md) | Recycling and bottle-bill money, reverse vending machine funding, waste grants |
+| [farm-and-agriculture.md](https://github.com/wbp318/maine-business-2027/blob/main/grants/farm-and-agriculture.md) | NRCS, FSA, DACF, woodlot, dairy, and private farm funds |
+| [small-business-and-rural.md](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md) | Loans, guarantees, free advising, workforce, tourism, tax credits |
+| [energy-and-buildings.md](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) | Efficiency Maine, REAP, depreciation, solar, line extensions, septic |
 
 **(snippet)** marks a fact seen only in a search summary; **(est.)** marks our estimate or something not verified on the source. Grant rules change often; confirm with the agency before applying.
 
@@ -187,23 +187,23 @@ flowchart LR
 
 | Program | Change | Page |
 | --- | --- | --- |
-| CCET Fund | Cut from $1M to $500k a year | [redemption-center](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md) |
-| USDA REAP grants | Stopped March 2026; new rule effective Oct 16, 2026 pays only for projects finished 12–24 months earlier | [energy](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) |
-| SBA 7(a), 504, Microloans | 100% U.S.-citizen ownership from March and April 2026 | [small business](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md) |
-| Bonus depreciation | 100% made permanent; Maine decoupled | [energy](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) |
-| 179D, 25C/25D, 45L, EV charger credit | Ended or effectively closed in 2025–26 | [energy](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) |
-| Solar credit (48E) | Must be in service by Dec 31, 2027 | [energy](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) |
-| Grow Maine | Original $62M fully lent; only repayments re-lent | [small business](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md) |
-| EPA SWIFR and REO | No new community rounds | [redemption-center](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md) |
-| Packaging EPR | Contractor search stalled; towns only anyway | [redemption-center](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md) |
-| Agricultural Development Grant | Temporarily closed | [farm](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/farm-and-agriculture.md) |
-| Climate-Smart Commodities, Local Food Purchase | Cancelled 2025 (est.) | [farm](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/farm-and-agriculture.md) |
-| Federal Work Opportunity Tax Credit | Expired 12/31/2025 | [small business](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md) |
-| ETIF / Pine Tree Development Zones | Closed to new applicants after 2024 (snippet) | [small business](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md) |
+| CCET Fund | Cut from $1M to $500k a year | [redemption-center](https://github.com/wbp318/maine-business-2027/blob/main/grants/redemption-center.md) |
+| USDA REAP grants | Stopped March 2026; new rule effective Oct 16, 2026 pays only for projects finished 12–24 months earlier | [energy](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) |
+| SBA 7(a), 504, Microloans | 100% U.S.-citizen ownership from March and April 2026 | [small business](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md) |
+| Bonus depreciation | 100% made permanent; Maine decoupled | [energy](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) |
+| 179D, 25C/25D, 45L, EV charger credit | Ended or effectively closed in 2025–26 | [energy](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) |
+| Solar credit (48E) | Must be in service by Dec 31, 2027 | [energy](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) |
+| Grow Maine | Original $62M fully lent; only repayments re-lent | [small business](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md) |
+| EPA SWIFR and REO | No new community rounds | [redemption-center](https://github.com/wbp318/maine-business-2027/blob/main/grants/redemption-center.md) |
+| Packaging EPR | Contractor search stalled; towns only anyway | [redemption-center](https://github.com/wbp318/maine-business-2027/blob/main/grants/redemption-center.md) |
+| Agricultural Development Grant | Temporarily closed | [farm](https://github.com/wbp318/maine-business-2027/blob/main/grants/farm-and-agriculture.md) |
+| Climate-Smart Commodities, Local Food Purchase | Cancelled 2025 (est.) | [farm](https://github.com/wbp318/maine-business-2027/blob/main/grants/farm-and-agriculture.md) |
+| Federal Work Opportunity Tax Credit | Expired 12/31/2025 | [small business](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md) |
+| ETIF / Pine Tree Development Zones | Closed to new applicants after 2024 (snippet) | [small business](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md) |
 
 ## Next actions
 
-These are tracked as issues [#17](https://github.com/wbp318/bottle_recycling_2027/issues/17) to [#22](https://github.com/wbp318/bottle_recycling_2027/issues/22).
+These are tracked as issues [#17](https://github.com/wbp318/maine-business-2027/issues/17) to [#22](https://github.com/wbp318/maine-business-2027/issues/22).
 
 1. Email DEP about the next CCET round, and whether a center with a pending license can apply.
 2. Apply to the Northeast Farmers Fund this month.

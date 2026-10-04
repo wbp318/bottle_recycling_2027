@@ -22,13 +22,13 @@ Ranks 6 to 9. Each is workable but needs more daily labor or more capital than t
 
 - **Liability shield:** Maine law limits a farm's liability for the inherent risks of farm activities. The farm must use a signed statement or post a warning sign with the exact statutory text, in black letters at least 1 inch high ([7 M.R.S. ch. 8-E](https://www.legislature.maine.gov/statutes/7/title7ch8-E.pdf); [PL 2011 c.609](https://legislature.maine.gov/legis/bills/bills_125th/chapters/PUBLIC609.asp)).
 - **Ideas:** Farm tours, goat yoga, egg sales, kids' days. A farm with goats and chickens is a natural fit.
-- **Events:** Overnight guests need the HIP event camping license ($270; see [campground.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/campground.md)). Using a barn to host gatherings is usually a **change of use** under the building and fire codes. We found no Maine-specific Fire Marshal guidance, so contact the local code officer and the State Fire Marshal before booking events.
+- **Events:** Overnight guests need the HIP event camping license ($270; see [campground.md](https://github.com/wbp318/maine-business-2027/blob/main/ideas/campground.md)). Using a barn to host gatherings is usually a **change of use** under the building and fire codes. We found no Maine-specific Fire Marshal guidance, so contact the local code officer and the State Fire Marshal before booking events.
 - **Startup (est.):** $5k for tours and small activities; $50k+ to bring a barn up to code for events.
 - **Fit:** A strong marketing play for the remote partner. Code compliance is the real cost.
 
 ## Mobile sawmill
 
 - **What:** Mill neighbors' logs for a fee per board foot, and sell slabs, lumber, and offcuts as firewood.
-- **Permits:** No state license found. Portable mills file Maine Forest Service wood-processor reports ([12 M.R.S. §8884](https://lldc.mainelegislature.org/Open/Rpts/hd9757_m2m344_2011.pdf)). The emerald ash borer rules restrict moving green ash lumber with bark (see [firewood.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md)).
+- **Permits:** No state license found. Portable mills file Maine Forest Service wood-processor reports ([12 M.R.S. §8884](https://lldc.mainelegislature.org/Open/Rpts/hd9757_m2m344_2011.pdf)). The emerald ash borer rules restrict moving green ash lumber with bark (see [firewood.md](https://github.com/wbp318/maine-business-2027/blob/main/ideas/firewood.md)).
 - **Startup (est.):** $15k–40k for a used band mill.
 - **Fit:** Uses farm equipment and pairs with firewood, but it's labor-heavy.

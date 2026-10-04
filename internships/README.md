@@ -4,10 +4,10 @@ How to bring students and faculty from Maine's public universities and community
 
 | Page | Covers |
 | --- | --- |
-| [forestry-ag-environment.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/internships/forestry-ag-environment.md) | Forest Resources, Extension, animal science, Mitchell Center, SARE graduate grants, GIS internships |
-| [tech-and-business.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/internships/tech-and-business.md) | CS and engineering capstones, UMA CIS, Black Bear Consulting Corps, Innovate for Maine, USM, community colleges |
-| [project-briefs.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/internships/project-briefs.md) | Eleven ready-to-send project pitches |
-| [hiring-rules.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/internships/hiring-rules.md) | Minimum wage, unpaid internship test, payroll, I-9, workers' comp, remote supervision, IP |
+| [forestry-ag-environment.md](https://github.com/wbp318/maine-business-2027/blob/main/internships/forestry-ag-environment.md) | Forest Resources, Extension, animal science, Mitchell Center, SARE graduate grants, GIS internships |
+| [tech-and-business.md](https://github.com/wbp318/maine-business-2027/blob/main/internships/tech-and-business.md) | CS and engineering capstones, UMA CIS, Black Bear Consulting Corps, Innovate for Maine, USM, community colleges |
+| [project-briefs.md](https://github.com/wbp318/maine-business-2027/blob/main/internships/project-briefs.md) | Eleven ready-to-send project pitches |
+| [hiring-rules.md](https://github.com/wbp318/maine-business-2027/blob/main/internships/hiring-rules.md) | Minimum wage, unpaid internship test, payroll, I-9, workers' comp, remote supervision, IP |
 
 ## The short version
 
@@ -135,7 +135,7 @@ quadrantChart
 
 ## Start here
 
-These are tracked as issues [#23](https://github.com/wbp318/bottle_recycling_2027/issues/23) to [#27](https://github.com/wbp318/bottle_recycling_2027/issues/27).
+These are tracked as issues [#23](https://github.com/wbp318/maine-business-2027/issues/23) to [#27](https://github.com/wbp318/maine-business-2027/issues/27).
 
 1. Email Eric McPherson (UMaine Forest Resources) about a summer 2027 woodlot intern or class project. Interviews end mid-November.
 2. Ask the Foster Center about the late-October Black Bear Consulting Corps slot for the market study, and about hosting an Innovate for Maine fellow in 2027.

@@ -2,7 +2,7 @@
 
 Grants, cost-share, and low-rate loans for the farm itself: goats, chickens, pasture, water, the woodlot, and value-added products. Researched October 2026. **(snippet)** marks a fact seen only in a search summary; **(est.)** marks our estimate or something not verified on the source.
 
-**The non-farm businesses don't qualify for farm money.** Campsites, boat and RV storage, and the redemption center have to use [business financing](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md).
+**The non-farm businesses don't qualify for farm money.** Campsites, boat and RV storage, and the redemption center have to use [business financing](https://github.com/wbp318/maine-business-2027/blob/main/grants/small-business-and-rural.md).
 
 ## Do these first
 
@@ -55,7 +55,7 @@ Grants, cost-share, and low-rate loans for the farm itself: goats, chickens, pas
 | 19 | [Maine Farmland Trust](https://mainefarmlandtrust.org/blogs/farming-for-wholesale-helps-farms-scale-up) programs | MFT | Advising plus grant | Up to $50k (wholesale track) | Low-Medium |
 | 20 | [PFAS Fund](https://www.maine.gov/dacf/ag/pfas/pfas-fund.shtml) | DACF | Income replacement, infrastructure, testing | Up to 24 months of income | Only if PFAS-affected |
 | 21 | RCPP | USDA NRCS | Cost-share via partners | Varies | Low |
-| 22 | REAP | USDA RD | **Grants frozen**; guaranteed loans open | See [energy page](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md) | Low |
+| 22 | REAP | USDA RD | **Grants frozen**; guaranteed loans open | See [energy page](https://github.com/wbp318/maine-business-2027/blob/main/grants/energy-and-buildings.md) | Low |
 | 23 | [LAMP](https://www.ams.usda.gov/services/grants/lamp) | USDA AMS | Grant | Mostly for organizations | Low |
 
 **Doesn't apply:**
@@ -107,7 +107,7 @@ flowchart LR
 
 **EQIP** pays a fixed rate per practice: fencing, watering pipelines and tanks, heavy-use areas, prescribed grazing, high tunnels, and woodlot practices like stand improvement and trails. Maine splits money into local pools. It continues after the 2025 budget law moved unspent IRA conservation money into the regular baseline (est.) ([Maine deadlines](https://nrcs-prod.azureedge.us/state-offices/maine/maines-application-deadlines)).
 
-**WoodsWISE Resilience** reimburses eight forestry practices, including thinning, crop-tree release, planting, and invasive control. It runs through December 2029 or until the $9M is spent. A forest plan also opens NRCS forestry practices and possibly Tree Growth tax status (est.), but check the current-use question in [issue #13](https://github.com/wbp318/bottle_recycling_2027/issues/13) first.
+**WoodsWISE Resilience** reimburses eight forestry practices, including thinning, crop-tree release, planting, and invasive control. It runs through December 2029 or until the $9M is spent. A forest plan also opens NRCS forestry practices and possibly Tree Growth tax status (est.), but check the current-use question in [issue #13](https://github.com/wbp318/maine-business-2027/issues/13) first.
 
 **Farms for the Future**:
 

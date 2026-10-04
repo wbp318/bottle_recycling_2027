@@ -2,7 +2,7 @@
 
 One-page pitches ready to send to a coordinator or capstone instructor. Each lists the problem, deliverables, the data we can provide, the best program, and when to pitch. Adjust the scope to the program's length: a 5-week Black Bear Consulting Corps sprint is not a two-semester capstone.
 
-**Terms for every software project:** code lives in a GitHub repo under an open-source license the students can show in their portfolios, unless the department allows an assignment to the LLC. Paid interns sign an IP assignment in their offer letter. See [hiring-rules.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/internships/hiring-rules.md).
+**Terms for every software project:** code lives in a GitHub repo under an open-source license the students can show in their portfolios, unless the department allows an assignment to the LLC. Paid interns sign an IP assignment in their offer letter. See [hiring-rules.md](https://github.com/wbp318/maine-business-2027/blob/main/internships/hiring-rules.md).
 
 | # | Project | Discipline | Best program | Pitch by |
 | --- | --- | --- | --- | --- |
@@ -38,11 +38,11 @@ One-page pitches ready to send to a coordinator or capstone instructor. Each lis
   - A counting-station prototype with a simple interface
   - Accuracy report against hand counts
 - **Constraints:** must run offline in a cold building.
-- **Compare against:** reverse vending machines. The CCET grant covers at least 25% of commercial equipment ([grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md)), so the student build is a learning project and a benchmark, not a replacement.
+- **Compare against:** reverse vending machines. The CCET grant covers at least 25% of commercial equipment ([grants](https://github.com/wbp318/maine-business-2027/blob/main/grants/redemption-center.md)), so the student build is a learning project and a benchmark, not a replacement.
 
 ## 3. Bag-drop and commercial pickup route optimizer
 
-- **Problem:** A rural center depends on bag-drop sheds and commercial pickups ([plan](https://github.com/wbp318/bottle_recycling_2027/blob/main/PLAN.md)).
+- **Problem:** A rural center depends on bag-drop sheds and commercial pickups ([plan](https://github.com/wbp318/maine-business-2027/blob/main/PLAN.md)).
 - **Deliverables:**
   - Weekly route planner with stop volumes, truck capacity, and time windows
   - Cost per stop
@@ -60,7 +60,7 @@ One-page pitches ready to send to a coordinator or capstone instructor. Each lis
 
 ## 5. Storage and campsite booking and billing
 
-- **Problem:** Winter boat and RV storage plus up to four campsites need reservations, contracts, deposits, reminders, and lodging-tax records ([ideas](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas)).
+- **Problem:** Winter boat and RV storage plus up to four campsites need reservations, contracts, deposits, reminders, and lodging-tax records ([ideas](https://github.com/wbp318/maine-business-2027/tree/main/ideas)).
 - **Deliverables:**
   - Booking site with availability
   - E-signed storage contracts
@@ -80,7 +80,7 @@ One-page pitches ready to send to a coordinator or capstone instructor. Each lis
 
 ## 7. Grant pipeline and first applications
 
-- **Problem:** We found about 90 programs ([grants](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants)).
+- **Problem:** We found about 90 programs ([grants](https://github.com/wbp318/maine-business-2027/tree/main/grants)).
 - **Deliverables:**
   - A tracker with deadlines and requirements
   - Drafts for the CCET Fund, Northeast Farmers Fund, and SARE Farmer Grant

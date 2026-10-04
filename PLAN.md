@@ -4,7 +4,7 @@
 
 _Business plan · Maine · October 2026_
 
-_This file is generated from [maine-redemption-plan.html](https://github.com/wbp318/bottle_recycling_2027/blob/main/maine-redemption-plan.html) and the [diagrams folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/diagrams) by [scripts/build_docs.py](https://github.com/wbp318/bottle_recycling_2027/blob/main/scripts/build_docs.py). Edit those; CI regenerates this file on every push to main._
+_This file is generated from [maine-redemption-plan.html](https://github.com/wbp318/maine-business-2027/blob/main/maine-redemption-plan.html) and the [diagrams folder](https://github.com/wbp318/maine-business-2027/tree/main/diagrams) by [scripts/build_docs.py](https://github.com/wbp318/maine-business-2027/blob/main/scripts/build_docs.py). Edit those; CI regenerates this file on every push to main._
 
 **A licensed Maine container redemption center, built only on what the law actually pays for: a state-mandated handling fee on every container you sort.**
 
@@ -498,7 +498,7 @@ flowchart TD
 
 ## 5. Side businesses for the farm
 
-The partner wants to diversify the farm's income, and the redemption center needs only a building and a truck. These ideas use the land, run in other seasons, and, like the center, cost little to start. Details, licensing, and sources are in the repo's [ideas folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas).
+The partner wants to diversify the farm's income, and the redemption center needs only a building and a truck. These ideas use the land, run in other seasons, and, like the center, cost little to start. Details, licensing, and sources are in the repo's [ideas folder](https://github.com/wbp318/maine-business-2027/tree/main/ideas).
 
 | Idea | Startup (est.) | Why it fits | State license |
 | --- | --- | --- | --- |
@@ -512,7 +512,7 @@ The partner wants to diversify the farm's income, and the redemption center need
 
 ## 6. Grants and financing
 
-We checked about 90 programs. True grants for a for-profit startup are rare: most grant money goes to towns and nonprofits. What the LLC can actually get is mostly loans, loan insurance, rebates, and tax write-offs, plus one grant written for this business. Full research, calendar, and sources are in the repo's [grants folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants).
+We checked about 90 programs. True grants for a for-profit startup are rare: most grant money goes to towns and nonprofits. What the LLC can actually get is mostly loans, loan insurance, rebates, and tax write-offs, plus one grant written for this business. Full research, calendar, and sources are in the repo's [grants folder](https://github.com/wbp318/maine-business-2027/tree/main/grants).
 
 | Program | For | Type | What it's worth |
 | --- | --- | --- | --- |
@@ -529,7 +529,7 @@ We checked about 90 programs. True grants for a for-profit startup are rare: mos
 
 ## 7. Students and universities
 
-Maine's public universities can supply help we'd otherwise pay consultants for. The repo's [internships folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/internships) has eleven ready-to-send project pitches, the programs that fit each, and the hiring rules.
+Maine's public universities can supply help we'd otherwise pay consultants for. The repo's [internships folder](https://github.com/wbp318/maine-business-2027/tree/main/internships) has eleven ready-to-send project pitches, the programs that fit each, and the hiring rules.
 
 - **Free:** UMaine's Black Bear Consulting Corps (a five-week student team, free under 50 employees) for the market study; computer science capstones for the count dashboard and route optimizer; graduate research on the farm funded by SARE.
 - **Paid, close by:** UMA in Augusta requires a CIS internship for its bachelor's degree, and its online-first program suits a remote supervisor.
