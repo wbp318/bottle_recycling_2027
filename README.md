@@ -510,7 +510,8 @@ What we found:
 - [x] Draft the plan and site ranking
 - [x] Pull the 2026 DEP initial application and map its requirements
 - [ ] Get the Maine partner's town and site address; check for an open license there
-- [ ] Request current license list and 2026 fee figure from Maine DEP
+- [x] Draft the [DEP email](https://github.com/wbp318/maine-business-2027/blob/main/correspondence/dep-email.md) covering licensing, compliance, and CCET questions
+- [ ] Send it once the farm's town is confirmed; request the license list and 2026 fee figure
 - [ ] Visit two incumbent centers and count volume
 - [ ] Form the LLC and line up the deposit float
 - [ ] Sign first commercial pickup accounts
@@ -528,6 +529,7 @@ What we found:
 | [ideas/](https://github.com/wbp318/maine-business-2027/tree/main/ideas) | Other low-cost businesses for the farm, one page per idea |
 | [grants/](https://github.com/wbp318/maine-business-2027/tree/main/grants) | Grants, loans, and incentives: about 90 programs in four pages, with charts and a calendar |
 | [internships/](https://github.com/wbp318/maine-business-2027/tree/main/internships) | University internships, capstones, and research partnerships, with project pitches and hiring rules |
+| [correspondence/](https://github.com/wbp318/maine-business-2027/tree/main/correspondence) | Outgoing email drafts and reply notes, starting with the [DEP email](https://github.com/wbp318/maine-business-2027/blob/main/correspondence/dep-email.md) |
 | [.github/workflows/ci.yml](https://github.com/wbp318/maine-business-2027/blob/main/.github/workflows/ci.yml) | CI: keeps PLAN.md in sync, renders every Mermaid diagram, checks the plan HTML, blocks private files, reports dead links |
 | [.github/scripts/](https://github.com/wbp318/maine-business-2027/tree/main/.github/scripts) | Helper scripts the CI runs |
 | [LICENSE](https://github.com/wbp318/maine-business-2027/blob/main/LICENSE) | All rights reserved. Viewing only; no copying or commercial use without both partners' written permission |
