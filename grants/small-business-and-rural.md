@@ -20,7 +20,7 @@ Money for the LLC as a business, whatever it does. Researched October 2026. **(s
 | 2 | [FAME Commercial Loan Insurance](https://famemaine.com/business-financing/for-lenders/commercial-loan-insurance/traditional-application) | FAME | Insurance on a bank loan | Up to 90% of the loan (100% for veterans) | Yes, through a bank | Rolling | High |
 | 3 | [CEI loans](https://www.ceimaine.org/financing/small-business-loans/) and [Women's Business Center](https://wbc.ceimaine.org) | CEI (a CDFI) | Loans, free advising | Up to $1M; Wicked Fast microloan up to $25k | Yes | Rolling | High |
 | 4 | SBA 7(a) / 504 | SBA, banks, CDCs | Loan guarantee | 7(a) up to $5M; 504 for buildings and equipment | Yes, if all owners are U.S. citizens | Rolling | High |
-| 5 | [KVCOG Revolving Loan Fund](https://kvcog.org/rlf) | Kennebec Valley COG | Loan | Up to $200k (more case by case), terms up to 15 years | Yes: Kennebec, Somerset, western Waldo | Rolling | High in Kennebec |
+| 5 | [KVCOG Revolving Loan Fund](https://www.kvcog.org/business-services/business-financing) | Kennebec Valley COG | Loan | Up to $200k (more case by case), terms up to 15 years | Yes: Kennebec, Somerset, western Waldo | Rolling | High in Kennebec |
 | 6 | MCOG business loans and microloans | Midcoast COG | Loan | Up to $200k; micro up to $50k | Yes: Knox, Lincoln, Sagadahoc, parts of Waldo | Rolling | High in Knox or Lincoln |
 | 7 | [SCORE Maine](https://www.score.org/me/) | SCORE / SBA | Free mentoring | Free | Yes | Rolling | High |
 | 8 | [Grow Maine](https://www.famemaine.com/grow) | FAME and partner lenders | Loan, sub-debt | Up to $5M | Yes | Recycled funds only | Medium-High |
@@ -47,7 +47,7 @@ Money for the LLC as a business, whatever it does. Researched October 2026. **(s
 
 **SBDC first.** Free one-on-one help with the business plan, projections, and packaging the loan request. It's also required before applying for a CDBG micro-grant. In 2025 it served 2,076 clients ([Mainebiz](https://mainebiz.biz/article/maine-small-business-centers-helped-2076-clients-in-2025/)).
 
-**FAME Commercial Loan Insurance.** This insures a bank's loan so the bank will make it; it's not a loan from FAME. A fast-track version covers up to 75% with near-immediate approval ([FAME guidelines](https://www.famemaine.com/wp-content/uploads/2019/06/209.1-FAME-Guidelines-for-CLI.pdf)). Expect FAME to want guarantees and financials from both partners (est.).
+**FAME Commercial Loan Insurance.** This insures a bank's loan so the bank will make it; it's not a loan from FAME. A fast-track version covers up to 75% with near-immediate approval. Expect FAME to want guarantees and financials from both partners (est.).
 
 **SBA rules tightened in 2025–26** ([CDC New England](https://cdcnewengland.com/post/new-sba-citizenship-requirements-what-bankers-and-borrowers-need-to-know); [Phillips Lytle](https://phillipslytle.com/the-sba-reverts-back-to-stricter-lending-standards/)):
 

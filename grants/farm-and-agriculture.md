@@ -39,7 +39,7 @@ Grants, cost-share, and low-rate loans for the farm itself: goats, chickens, pas
 | 3 | [Maine Farms for the Future](https://www.maine.gov/dacf/ard/grants/farms-for-future/index.shtml) | DACF | Grant, then grant plus loan | Phase 1: $6,000 business plan. Phase 2: up to $25k grant plus up to $250k at 2% | **High** with 2+ years commercial |
 | 4 | [Northeast SARE Farmer Grant](https://www.sare.org/wp-content/uploads/Northeast-SARE-Farmer-Grant-Call-for-Proposals.pdf) | USDA NIFA via UVM | Grant | Up to $30,000, no match | **High** |
 | 5 | [Northeast Farmers Fund](https://wolfesneck.org/neff/) | Wolfe's Neck Center (USDA funds) | Grant | Not posted | Medium-High |
-| 6 | [FSA Microloan](https://www.fsa.usda.gov/resources/programs/microloans) | USDA FSA | Loan | $50k operating, $50k ownership; capped at 5% for beginning and veteran farmers | **High** |
+| 6 | [FSA Microloan](https://www.fsa.usda.gov/resources/farm-loan-programs/microloans) | USDA FSA | Loan | $50k operating, $50k ownership; capped at 5% for beginning and veteran farmers | **High** |
 | 7 | [Agricultural Marketing Loan Fund](https://www.maine.gov/dacf/ard/grants/agricultural_marketing.shtml) | DACF and FAME | Loan | Up to $250k at prime or 5%, whichever is lower; 2% after Farms for the Future | Medium-High |
 | 8 | [Healthy Soils](https://www.maine.gov/dacf/ard/resources/healthysoils/index.shtml) Implementation Grant and EQIP Top-Off | DACF | Grant | Up to $65k; needs $2,000 a year in farm sales | Medium |
 | 9 | [Farmers Drought Resilience Fund](https://www.maine.gov/dacf/ard/grants/farmers-drought-resilience-program.shtml) | DACF | Grant | 2026 awards $15k–50k for wells and ponds | Medium |

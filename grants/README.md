@@ -31,7 +31,7 @@ Everything we found that could fund the redemption center, the farm, the side bu
 | 2 | [Maine SBDC](https://www.mainesbdc.org) | LLC | Free advising | Free | Rolling |
 | 3 | [FAME Commercial Loan Insurance](https://famemaine.com/business-financing/for-lenders/commercial-loan-insurance/traditional-application) | LLC | Bank loan insurance | Up to 90% | Rolling |
 | 4 | [CEI loans](https://www.ceimaine.org/financing/small-business-loans/) | LLC | Loan | Up to $1M; microloans | Rolling |
-| 5 | [KVCOG](https://kvcog.org/rlf) or MCOG loan fund | LLC | Loan | Up to $200k | Rolling; depends on county |
+| 5 | [KVCOG](https://www.kvcog.org/business-services/business-financing) or MCOG loan fund | LLC | Loan | Up to $200k | Rolling; depends on county |
 | 6 | Section 179 and 100% bonus depreciation | Both | Federal tax write-off | 100% first year | Permanent; Maine differs |
 | 7 | [Efficiency Maine heat pumps](https://www.efficiencymaine.com/at-work/commercial-hvac-incentives/) | LLC | Rebate | $750 per outdoor unit (change of use) | Pre-approval required |
 | 8 | [Efficiency Maine lighting](https://www.efficiencymaine.com/at-work/lighting-incentives/) | LLC | Rebate | 65% for small businesses | Open |
@@ -40,7 +40,7 @@ Everything we found that could fund the redemption center, the farm, the side bu
 | 11 | [Farms for the Future](https://www.maine.gov/dacf/ard/grants/farms-for-future/index.shtml) | Farm | **Grant**, then loan | $6k plan; then $25k grant plus 2% loan | RFA expected fall 2026 |
 | 12 | [Northeast SARE Farmer Grant](https://www.sare.org/wp-content/uploads/Northeast-SARE-Farmer-Grant-Call-for-Proposals.pdf) | Farm | **Grant** | Up to $30k, no match | Likely early Dec 2026 (est.) |
 | 13 | [Northeast Farmers Fund](https://wolfesneck.org/neff/) | Farm | **Grant** | Not posted | **Open now** |
-| 14 | [FSA Microloan](https://www.fsa.usda.gov/resources/programs/microloans) | Farm | Loan | $50k | Year-round |
+| 14 | [FSA Microloan](https://www.fsa.usda.gov/resources/farm-loan-programs/microloans) | Farm | Loan | $50k | Year-round |
 | 15 | [SBA 7(a) / 504](https://cdcnewengland.com/post/new-sba-citizenship-requirements-what-bankers-and-borrowers-need-to-know) | LLC | Loan guarantee | Up to $5M | All owners must be U.S. citizens |
 
 ## Who applies for what
