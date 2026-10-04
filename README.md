@@ -18,6 +18,7 @@ It covers:
 - **How the cash moves.** Customer deposit out of our float, sort into cooperative streams, agent pickup, reimbursement of deposit plus fee.
 - **Unit economics** at 2, 4, and 8 million containers a year, with labor, rent, overhead, and float. Planning assumptions are labeled as such.
 - **Site ranking.** Lewiston-Auburn, Bangor, the Augusta-Waterville corridor, and the Midcoast, and why the New Hampshire line and Portland are the wrong places.
+- **A farm candidate site.** A Maine partner's farm south of Orono: per-town license caps, bag-drop and pickup routes to make up for low density, and economics with no rent.
 - **Partner roles** for a Maine operator and an out-of-state funder.
 - **A 90-day launch checklist**, starting with the DEP information request.
 
@@ -28,6 +29,8 @@ It covers:
 | Deposit | 5¢ standard, 15¢ wine and liquor over 50 mL |
 | Handling fee to operator | 6¢ per container as of Sept 2023, indexed from Jan 2025 |
 | License | $100 per year, Maine DEP |
+| License cap | 1 center in towns of 5,000 or less; 2, 3, or 5 in larger towns |
+| To be licensed | LLC in good standing, deed or lease, one dealer agreement, public notice |
 | 2025 redemption rate | 69% |
 | Out-of-state containers | $100 fine each; ID and plate recorded above 2,500 |
 
@@ -35,6 +38,8 @@ It covers:
 
 - [x] Confirm the legal model and fee structure
 - [x] Draft the plan and site ranking
+- [x] Pull the 2026 DEP initial application and map its requirements
+- [ ] Get the Maine partner's town and site address; check for an open license there
 - [ ] Request current license list and 2026 fee figure from Maine DEP
 - [ ] Visit two incumbent centers and count volume
 - [ ] Form the LLC and line up the deposit float
@@ -47,7 +52,7 @@ It covers:
 maine-redemption-plan.html   the plan, self-contained, opens in any browser
 README.md                    this file
 .gitattributes               Linguist overrides so every file type shows in the language bar
-.gitignore                   keeps correspondence drafts and local notes out of the repo
+.gitignore                   keeps correspondence drafts and partner documents (private/) out of the repo
 ```
 
 ## Sources
