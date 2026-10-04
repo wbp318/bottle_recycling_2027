@@ -510,6 +510,23 @@ The partner wants to diversify the farm's income, and the redemption center need
 
 > **Check before using any land.** If the farm is enrolled in Maine's Farmland current-use tax program, converting enrolled acres to commercial use can trigger a penalty of about five years of tax savings. Ask whether sewage sludge was ever spread on the land, since Maine banned it in 2022 over PFAS.
 
+## 6. Grants and financing
+
+We checked about 90 programs. True grants for a for-profit startup are rare: most grant money goes to towns and nonprofits. What the LLC can actually get is mostly loans, loan insurance, rebates, and tax write-offs, plus one grant written for this business. Full research, calendar, and sources are in the repo's [grants folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants).
+
+| Program | For | Type | What it's worth |
+| --- | --- | --- | --- |
+| CCET Fund, Maine DEP | LLC | Grant | At least 25% of reverse vending machines and automated counting equipment. Pool cut to $500k a year in 2025; ask DEP when the next round opens. |
+| Maine SBDC | LLC | Free advising | Business plan, projections, and loan package |
+| Bank loan with FAME loan insurance, or SBA 7(a)/504 | LLC | Loan | FAME insures up to 90%; SBA now requires every owner to be a U.S. citizen |
+| CEI, KVCOG, or MCOG loan funds | LLC | Loan | Gap and micro loans; KVCOG and MCOG up to $200k, depending on county |
+| Efficiency Maine | LLC | Rebate | $750 per heat pump in a converted building; 65% of LED cost. Needs the LLC's own commercial meter |
+| Section 179 and bonus depreciation | Both | Tax | 100% first-year federal write-off of equipment and fit-out; Maine does not follow bonus depreciation |
+| NRCS EQIP, WoodsWISE | Farm | Cost-share | Fencing, livestock water, woodlot work; needs an FSA farm number |
+| Farms for the Future, SARE, Northeast Farmers Fund | Farm | Grant | $6k business plan then a $25k grant; up to $30k for on-farm trials; Northeast Farmers Fund open now |
+
+> **Keep the redemption center in its own LLC.** Farm programs won't fund the center, storage, or campsites, and mixing them puts the farm's eligibility at risk.
+
 > **What made this look better than it is.** The Parish Brewing label that started this reads "OK+ 10¢ MI" because its deposit line was typed before 2011 and never fixed. It still lists Delaware, which repealed its deposit that year, and Oregon at 5¢, which changed in 2017. Oklahoma has never had a deposit law. The number on a label is not the law; the statutes above are.
 
 ## Sources
@@ -522,6 +539,7 @@ The partner wants to diversify the farm's income, and the redemption center need
 - [22 M.R.S. §2492, campground licensing threshold](https://legislature.maine.gov/statutes/22/title22sec2492.html)
 - [PL 2019 c.43, shoreland septic inspection at sale](https://www.mainelegislature.org/legis/bills/bills_129th/chapters/PUBLIC43.asp)
 - [36 M.R.S. §1112-C, farmland current-use withdrawal penalty](https://legislature.maine.gov/statutes/36/title36sec1112-C.pdf)
+- [38 M.R.S. §3114-A, CCET Fund for redemption technology](https://legislature.maine.gov/statutes/38/title38sec3114-A.html)
 - [Bottle Bill Resource Guide, Maine (fee, deposits, redemption rates, out-of-state penalties)](https://www.bottlebill.org/maine/)
 - [Waste Dive, Maine raises handling fee to 6¢ (2023)](https://www.wastedive.com/news/maine-governor-bottle-bill-handling-fee-poland-spring/649775/)
 - [Maine Public, redemption center closures and modernization](https://www.mainepublic.org/business-and-economy/2023-03-29/as-redemption-centers-close-maine-seeks-to-modernize-its-bottle-deposit-law)
