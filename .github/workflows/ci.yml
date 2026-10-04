@@ -1,0 +1,87 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays, to catch source links that go dead
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mermaid:
+    name: Mermaid diagrams render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Extract diagrams from Markdown
+        run: python .github/scripts/extract_mermaid.py mermaid-out
+      - name: Render each diagram
+        run: |
+          npm install -g @mermaid-js/mermaid-cli@11
+          status=0
+          for f in mermaid-out/*.mmd; do
+            if mmdc -q -p .github/puppeteer.json -i "$f" -o "${f%.mmd}.svg"; then
+              echo "ok   $f"
+            else
+              echo "::error file=README.md::Mermaid diagram failed to render: $f"
+              status=1
+            fi
+          done
+          exit $status
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rendered-diagrams
+          path: mermaid-out/
+
+  html:
+    name: Plan HTML is well-formed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/check_html.py maine-redemption-plan.html
+
+  privacy:
+    name: No private files committed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check tracked files
+        run: |
+          leaked=$(git ls-files | grep -E '^private/|^dep-email-draft\.md$' || true)
+          if [ -n "$leaked" ]; then
+            echo "::error::These files are git-ignored for privacy but were committed:"
+            echo "$leaked"
+            exit 1
+          fi
+          echo "No private files tracked."
+
+  links:
+    name: Source links (report only)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # Government sites often block bots, so dead links are reported, not fatal.
+          args: >-
+            --no-progress
+            --accept 200,206,403,429
+            --exclude 'claude\.ai/'
+            --max-retries 2
+            README.md maine-redemption-plan.html
+          fail: false
+          jobSummary: true
