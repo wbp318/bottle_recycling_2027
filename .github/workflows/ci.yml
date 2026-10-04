@@ -111,6 +111,6 @@ jobs:
             --accept 200,206,403,429
             --exclude 'claude\.ai/'
             --max-retries 2
-            README.md PLAN.md 'ideas/*.md' maine-redemption-plan.html
+            '**/*.md' maine-redemption-plan.html
           fail: false
           jobSummary: true
