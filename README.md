@@ -23,6 +23,7 @@ It covers:
 - **A farm candidate site.** A Maine partner's farm south of Orono: per-town license caps, bag-drop and pickup routes to make up for low density, and economics with no rent.
 - **Diagrams** of the money flow, sorting, licensing decisions, partner structure, and timeline are [below](#diagrams).
 - **Partner roles** for a Maine operator and an out-of-state funder.
+- **Grants and financing**, summarized below and detailed in the [grants folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants).
 - **Side businesses** for the farm, summarized below and detailed in [ideas/](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas).
 - **A 90-day launch checklist**, starting with the DEP information request.
 
@@ -432,11 +433,27 @@ The redemption center works because state law sets the fee and guarantees the de
 | 4 | [Firewood](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md) | $5k–25k | Heating; the out-of-state firewood ban favors local wood | Sold by the cord; MFS reporting |
 | 5 | [Snow plowing contracts](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/snow-plowing.md) | $8k–20k | Town and school bids | None; contract insurance |
 | 6–9 | [Kennel, horse boarding, agritourism, sawmill](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md) | $5k–50k+ | Varies | Varies |
-| — | [Grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | about $0 | DACF and USDA programs | n/a |
+| — | [Grants](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants) | about $0 | About 90 programs; see below | n/a |
 
 Set aside after checking: solar leases, septage, e-waste, packaging EPR, mattresses, tires, composting ([why](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md)).
 
 **Suggested order:** storage plus up to four campsites first, since they share the land and gate, need no state license at that size, and cover both seasons. Add plowing and firewood next. Before any of it, check the farm's current-use tax enrollment and whether sludge was ever spread on the land.
+
+## Grants and financing
+
+The [grants folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants) covers about 90 programs, with a calendar and charts in its [README](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/README.md):
+
+- [Redemption center](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md)
+- [Farm and agriculture](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/farm-and-agriculture.md)
+- [Small business and rural](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md)
+- [Energy and buildings](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md)
+
+What we found:
+
+- **One grant fits the center itself.** Maine DEP's [CCET Fund](https://legislature.maine.gov/statutes/38/title38sec3114-A.html) pays at least 25% of reverse vending machines and automated counting equipment.
+- **Most other money for the LLC is loans, loan insurance, rebates, and tax write-offs.** That means FAME, SBA, CEI, regional loan funds, Efficiency Maine, and Section 179.
+- **The farm has more true grants:** NRCS EQIP, WoodsWISE, Farms for the Future, SARE, and the Northeast Farmers Fund (open now). All of them need an FSA farm number first.
+- **Federal rules changed in 2025–26:** REAP grants were frozen and rewritten, SBA requires all-citizen ownership, and bonus depreciation is now permanent federally (Maine doesn't follow it).
 
 ## Status
 
@@ -460,6 +477,7 @@ Set aside after checking: solar leases, septage, e-waste, packaging EPR, mattres
 | [diagrams/](https://github.com/wbp318/bottle_recycling_2027/tree/main/diagrams) | One Mermaid chart per file, shared by the README and PLAN.md |
 | [scripts/build_docs.py](https://github.com/wbp318/bottle_recycling_2027/blob/main/scripts/build_docs.py) | Rebuilds PLAN.md and the README charts; CI runs it on every push |
 | [ideas/](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas) | Other low-cost businesses for the farm, one page per idea |
+| [grants/](https://github.com/wbp318/bottle_recycling_2027/tree/main/grants) | Grants, loans, and incentives: about 90 programs in four pages, with charts and a calendar |
 | [.github/workflows/ci.yml](https://github.com/wbp318/bottle_recycling_2027/blob/main/.github/workflows/ci.yml) | CI: keeps PLAN.md in sync, renders every Mermaid diagram, checks the plan HTML, blocks private files, reports dead links |
 | [.github/scripts/](https://github.com/wbp318/bottle_recycling_2027/tree/main/.github/scripts) | Helper scripts the CI runs |
 | [.gitattributes](https://github.com/wbp318/bottle_recycling_2027/blob/main/.gitattributes) | Linguist overrides so every file type shows in the language bar |

@@ -1,20 +1,16 @@
 # Grants and low-cost financing
 
-This isn't a business by itself. It's money the remote partner can apply for to support the others. Deadlines move; check each program's page before planning around it.
+This page moved. The full research on about 90 programs is now in the grants folder:
 
-| Program | Agency | What it offers | Status (Oct 2026) |
-| --- | --- | --- | --- |
-| [Maine Farms for the Future](https://maine.gov/dacf/ard/grants/farms-for-future/index.shtml) | DACF | Business planning, then investment support | Spring and fall rounds |
-| Agricultural Development Grant | DACF | About $10k–55k for market development and new farm ventures | Next deadline about Oct 2026 per a third-party listing ([AtomGrants](https://atomgrants.com/grant/agricultural-development-grant-maine-dacf)); verify |
-| AIIP (Agricultural Infrastructure Investment Program) | DACF | Farm infrastructure | Closed |
-| Rural Rehabilitation Trust Fund | DACF | Low-interest loans for livestock and land | See [DACF grants](https://www.maine.gov/dacf/ard/grants/) |
-| [Value-Added Producer Grant](https://www.rd.usda.gov/programs-services/business-programs/value-added-producer-grants-34) | USDA Rural Development | Up to $200k | 2026 window closed April 22, 2026; next round expected 2027 |
-| REAP (Rural Energy for America) | USDA Rural Development | Renewable energy and efficiency | Restricted for ground-mount solar over 50 kW since August 2025 ([Solar Power World](https://www.solarpowerworldonline.com/2025/08/usda-adds-restrictions-for-reap-funded-solar-projects/); [Biodiesel Magazine](https://biodieselmagazine.com/articles/usda-delays-fy-2026-reap-application-period)) |
+- [Grants overview, top 15, calendar, and charts](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/README.md)
+- [Farm and agriculture](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/farm-and-agriculture.md): NRCS, FSA, DACF, woodlot, dairy, private funds
+- [Redemption center](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/redemption-center.md): the CCET Fund for reverse vending machines, waste grants
+- [Small business and rural](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md): loans, guarantees, free advising, tourism
+- [Energy and buildings](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/energy-and-buildings.md): Efficiency Maine, depreciation, solar, power, septic
 
-## What could plausibly qualify
+For the side businesses in this folder:
 
-- **Farms for the Future:** a business plan that adds storage, camping, and agritourism to the farm
-- **Value-Added Producer Grant:** goat products (cheese, soap) or eggs, if the farm moves that way
-- **Agricultural Development Grant:** agritourism or a new market for farm products
-
-The redemption center itself is unlikely to qualify for farm grants; keep it in its own LLC.
+- **Storage, campsites, plowing, and septic inspections are not farm businesses**, so farm grants won't cover them. Use [business loans and advising](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/small-business-and-rural.md).
+- **Firewood and woodlot work** can use WoodsWISE and NRCS forestry practices.
+- **Goat products and eggs** can use Farms for the Future, the Value-Added Producer Grant, and the dairy programs if licensed.
+- **Correction:** an earlier version of this page listed an October 2026 deadline for DACF's Agricultural Development Grant. DACF lists that program as **temporarily closed**.

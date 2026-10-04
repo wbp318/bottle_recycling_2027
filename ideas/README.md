@@ -24,7 +24,7 @@ Researched October 2026. Every regulatory fact links to a source. Figures marked
 | 7 | [Horse boarding and hay](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#horse-boarding-and-hay) | $5k–30k | Monthly board | None found | Depends on barns and pasture | Fair |
 | 8 | [Agritourism and farm events](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#agritourism-and-farm-events) | $5k–50k+ | Tourism; state law limits liability | Event camping license; change of use for barns | Very good | Very good |
 | 9 | [Mobile sawmill](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#mobile-sawmill) | $15k–40k | Local custom milling | Forest Service reporting | Good | Fair |
-| 10 | [Grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | about $0 | State and federal programs | n/a | n/a | Excellent |
+| 10 | [Grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/grants/README.md) (own folder) | about $0 | About 90 programs researched | n/a | n/a | Excellent |
 
 Checked and not recommended: solar leases, septage hauling, e-waste, packaging EPR, mattresses, tires, and composting for tipping fees. See [not-recommended.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md).
 
@@ -150,5 +150,5 @@ These are tracked as issues [#13](https://github.com/wbp318/bottle_recycling_202
 | [firewood.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md) | Seasoned and heat-treated firewood |
 | [snow-plowing.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/snow-plowing.md) | Town, school and commercial plowing bids |
 | [other-farm-ideas.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md) | Kennel, horse boarding, agritourism, mobile sawmill |
-| [grants.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | State and federal programs the remote partner can apply for |
+| [grants.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | Pointer to the grants folder |
 | [not-recommended.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md) | Ideas we checked and set aside, and why |
