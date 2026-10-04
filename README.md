@@ -10,7 +10,7 @@ Maine pays licensed redemption centers a per-container handling fee, set in stat
 
 ## The plan
 
-Open `maine-redemption-plan.html` in a browser, or read the published version:
+Open [maine-redemption-plan.html](https://github.com/wbp318/bottle_recycling_2027/blob/main/maine-redemption-plan.html) in a browser, or read the published version:
 
 https://claude.ai/code/artifact/4e2bd70e-2a05-4e02-8523-a8b3e40098a2
 
@@ -23,7 +23,7 @@ It covers:
 - **A farm candidate site.** A Maine partner's farm south of Orono: per-town license caps, bag-drop and pickup routes to make up for low density, and economics with no rent.
 - **Diagrams** of the money flow, sorting, licensing decisions, partner structure, and timeline are [below](#diagrams).
 - **Partner roles** for a Maine operator and an out-of-state funder.
-- **Side businesses** for the farm, summarized below and detailed in [`ideas/`](ideas/).
+- **Side businesses** for the farm, summarized below and detailed in [ideas/](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas).
 - **A 90-day launch checklist**, starting with the DEP information request.
 
 ## Key facts
@@ -418,19 +418,19 @@ flowchart TD
 
 ## Other low-cost ideas
 
-The redemption center works because state law sets the fee and guarantees the demand, while the capital needed is small. [`ideas/`](ideas/) looks for other businesses like that which could run on the Maine partner's farm, with a page per idea covering revenue, startup cost, Maine licensing, risks, and who does what.
+The redemption center works because state law sets the fee and guarantees the demand, while the capital needed is small. [ideas/](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas) looks for other businesses like that which could run on the Maine partner's farm, with a page per idea covering revenue, startup cost, Maine licensing, risks, and who does what.
 
 | Rank | Idea | Startup (est.) | Where demand comes from | State license |
 | --- | --- | --- | --- | --- |
-| 1 | [Winter boat and RV storage](ideas/boat-rv-storage.md) | $5k–25k | Short boating season; RVs idle all winter | None found; town zoning only |
-| 2 | [Campsites, 4 or fewer to start](ideas/campground.md) | $2k–10k | Summer tourism | None at 4 or fewer; ME CDC at 5+ ($205/yr) |
-| 3 | [Shoreland septic inspections](ideas/septic-inspections.md) | $3k–10k | Required by law at every shoreland sale | DHHS certification |
-| 4 | [Firewood](ideas/firewood.md) | $5k–25k | Heating; quarantine favors in-state wood | Sold by the cord; MFS reporting |
-| 5 | [Snow plowing contracts](ideas/snow-plowing.md) | $8k–20k | Town and school bids | None; contract insurance |
-| 6–9 | [Kennel, horse boarding, agritourism, sawmill](ideas/other-farm-ideas.md) | $5k–50k+ | Varies | Varies |
-| — | [Grants](ideas/grants.md) | about $0 | DACF and USDA programs | n/a |
+| 1 | [Winter boat and RV storage](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/boat-rv-storage.md) | $5k–25k | Short boating season; RVs idle all winter | None found; town zoning only |
+| 2 | [Campsites, 4 or fewer to start](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/campground.md) | $2k–10k | Summer tourism | None at 4 or fewer; ME CDC at 5+ ($205/yr) |
+| 3 | [Shoreland septic inspections](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/septic-inspections.md) | $3k–10k | Required by law at every shoreland sale | DHHS certification |
+| 4 | [Firewood](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md) | $5k–25k | Heating; the out-of-state firewood ban favors local wood | Sold by the cord; MFS reporting |
+| 5 | [Snow plowing contracts](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/snow-plowing.md) | $8k–20k | Town and school bids | None; contract insurance |
+| 6–9 | [Kennel, horse boarding, agritourism, sawmill](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md) | $5k–50k+ | Varies | Varies |
+| — | [Grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | about $0 | DACF and USDA programs | n/a |
 
-Set aside after checking: solar leases, septage, e-waste, packaging EPR, mattresses, tires, composting ([why](ideas/not-recommended.md)).
+Set aside after checking: solar leases, septage, e-waste, packaging EPR, mattresses, tires, composting ([why](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md)).
 
 **Suggested order:** storage plus up to four campsites first, since they share the land and gate, need no state license at that size, and cover both seasons. Add plowing and firewood next. Before any of it, check the farm's current-use tax enrollment and whether sludge was ever spread on the land.
 
@@ -448,15 +448,15 @@ Set aside after checking: solar leases, septage, e-waste, packaging EPR, mattres
 
 ## Repo layout
 
-```
-maine-redemption-plan.html   the plan, self-contained, opens in any browser
-README.md                    this file
-ideas/                       other low-cost businesses for the farm, one page per idea
-.github/workflows/ci.yml     CI: renders every Mermaid diagram, checks the plan HTML, blocks private files, reports dead links
-.github/scripts/             helper scripts the CI runs
-.gitattributes               Linguist overrides so every file type shows in the language bar
-.gitignore                   keeps correspondence drafts and partner documents (private/) out of the repo
-```
+| Path | What it is |
+| --- | --- |
+| [maine-redemption-plan.html](https://github.com/wbp318/bottle_recycling_2027/blob/main/maine-redemption-plan.html) | The plan, self-contained, opens in any browser |
+| [README.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/README.md) | This file |
+| [ideas/](https://github.com/wbp318/bottle_recycling_2027/tree/main/ideas) | Other low-cost businesses for the farm, one page per idea |
+| [.github/workflows/ci.yml](https://github.com/wbp318/bottle_recycling_2027/blob/main/.github/workflows/ci.yml) | CI: renders every Mermaid diagram, checks the plan HTML, blocks private files, reports dead links |
+| [.github/scripts/](https://github.com/wbp318/bottle_recycling_2027/tree/main/.github/scripts) | Helper scripts the CI runs |
+| [.gitattributes](https://github.com/wbp318/bottle_recycling_2027/blob/main/.gitattributes) | Linguist overrides so every file type shows in the language bar |
+| [.gitignore](https://github.com/wbp318/bottle_recycling_2027/blob/main/.gitignore) | Keeps correspondence drafts and partner documents (the private folder) out of the repo |
 
 ## Sources
 

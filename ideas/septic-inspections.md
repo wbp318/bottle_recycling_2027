@@ -6,9 +6,9 @@
 
 Since January 1, 2020, before a property in a shoreland zone is sold, its septic system has to be inspected by a state-certified inspector. If weather prevents the inspection, it must happen within 9 months after the sale. ([PL 2019 c.43](https://www.mainelegislature.org/legis/bills/bills_129th/chapters/PUBLIC43.asp); [Maine Realtors summary](https://www.mainerealtors.com/wp-content/uploads/2019/12/Septic-Systems-located-in-a-Shoreland-Zone.pdf))
 
-- **Exempt:** systems under 3 years old, or inspected within the last 3 years
+- **Exempt:** systems installed within 3 years before the sale, systems with a written inspection from the last 3 years, or when the buyer certifies they'll replace the system within a year
 - **If it fails:** the system must be fixed within 1 year
-- **Where it applies:** every shoreland zone, meaning lakes, rivers and streams as well as the coast ([NRCM](https://www.nrcm.org/?p=48678))
+- **Where it applies:** every shoreland zone, meaning lakes, rivers and streams as well as the coast ([LD 216 bill text](https://legislature.maine.gov/legis/bills/bills_129th/billtexts/HP017901.asp))
 
 ```mermaid
 flowchart LR

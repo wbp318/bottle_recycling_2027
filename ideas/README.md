@@ -15,18 +15,18 @@ Researched October 2026. Every regulatory fact links to a source. Figures marked
 
 | Rank | Idea | Startup (est.) | Where demand comes from | State license | Farm fit | Remote-partner fit |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Winter boat and RV storage](boat-rv-storage.md) | $5k–25k | Short boating season; RVs sit idle all winter | None found; town zoning only | Excellent | Excellent |
-| 2 | [Small campground or RV sites](campground.md) | $2k–10k (4 sites), $25k–50k+ (5–24) | Summer tourism | None at 4 or fewer sites; ME CDC license at 5+ ($205/yr) | Excellent | Excellent |
-| 3 | [Shoreland septic inspections](septic-inspections.md) | $3k–10k | **Required by statute** at every shoreland property sale | DHHS inspector certification | Neutral (labor only) | Good |
-| 4 | [Firewood](firewood.md) | $5k–25k ($50k+ with a certified kiln) | Heating, campgrounds; quarantine rules favor in-state wood | None to sell; must be sold by the cord | Very good | Good |
-| 5 | [Snow plowing contracts](snow-plowing.md) | $8k–20k on an existing truck | Town and school bids, often multi-year | None found; insurance set by contract | Good | Good |
-| 6 | [Dog boarding kennel](other-farm-ideas.md#dog-boarding-kennel) | $10k–40k | Vacations, tourist season | DACF kennel license, $125/yr | Good | Fair |
-| 7 | [Horse boarding and hay](other-farm-ideas.md#horse-boarding-and-hay) | $5k–30k | Monthly board | None found | Depends on barns and pasture | Fair |
-| 8 | [Agritourism and farm events](other-farm-ideas.md#agritourism-and-farm-events) | $5k–50k+ | Tourism; state law limits liability | Event camping license; change of use for barns | Very good | Very good |
-| 9 | [Mobile sawmill](other-farm-ideas.md#mobile-sawmill) | $15k–40k | Local custom milling | Forest Service reporting | Good | Fair |
-| 10 | [Grants](grants.md) | about $0 | State and federal programs | n/a | n/a | Excellent |
+| 1 | [Winter boat and RV storage](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/boat-rv-storage.md) | $5k–25k | Short boating season; RVs sit idle all winter | None found; town zoning only | Excellent | Excellent |
+| 2 | [Small campground or RV sites](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/campground.md) | $2k–10k (4 sites), $25k–50k+ (5–24) | Summer tourism | None at 4 or fewer sites; ME CDC license at 5+ ($205/yr) | Excellent | Excellent |
+| 3 | [Shoreland septic inspections](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/septic-inspections.md) | $3k–10k | **Required by statute** at every shoreland property sale | DHHS inspector certification | Neutral (labor only) | Good |
+| 4 | [Firewood](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md) | $5k–25k ($50k+ with a certified kiln) | Heating, campgrounds; the out-of-state firewood ban favors local wood | None to sell; must be sold by the cord | Very good | Good |
+| 5 | [Snow plowing contracts](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/snow-plowing.md) | $8k–20k on an existing truck | Town and school bids, often multi-year | None found; insurance set by contract | Good | Good |
+| 6 | [Dog boarding kennel](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#dog-boarding-kennel) | $10k–40k | Vacations, tourist season | DACF kennel license, $125/yr | Good | Fair |
+| 7 | [Horse boarding and hay](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#horse-boarding-and-hay) | $5k–30k | Monthly board | None found | Depends on barns and pasture | Fair |
+| 8 | [Agritourism and farm events](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#agritourism-and-farm-events) | $5k–50k+ | Tourism; state law limits liability | Event camping license; change of use for barns | Very good | Very good |
+| 9 | [Mobile sawmill](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md#mobile-sawmill) | $15k–40k | Local custom milling | Forest Service reporting | Good | Fair |
+| 10 | [Grants](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | about $0 | State and federal programs | n/a | n/a | Excellent |
 
-Checked and not recommended: solar leases, septage hauling, e-waste, packaging EPR, mattresses, tires, and composting for tipping fees. See [not-recommended.md](not-recommended.md).
+Checked and not recommended: solar leases, septage hauling, e-waste, packaging EPR, mattresses, tires, and composting for tipping fees. See [not-recommended.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md).
 
 ## Startup cost against fit
 
@@ -144,11 +144,11 @@ These are tracked as issues [#13](https://github.com/wbp318/bottle_recycling_202
 
 | File | Covers |
 | --- | --- |
-| [boat-rv-storage.md](boat-rv-storage.md) | Winter boat and RV storage |
-| [campground.md](campground.md) | Campsites, RV sites, glamping, event camping |
-| [septic-inspections.md](septic-inspections.md) | Inspections required at shoreland property sales |
-| [firewood.md](firewood.md) | Seasoned and heat-treated firewood |
-| [snow-plowing.md](snow-plowing.md) | Town, school and commercial plowing bids |
-| [other-farm-ideas.md](other-farm-ideas.md) | Kennel, horse boarding, agritourism, mobile sawmill |
-| [grants.md](grants.md) | State and federal programs the remote partner can apply for |
-| [not-recommended.md](not-recommended.md) | Ideas we checked and set aside, and why |
+| [boat-rv-storage.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/boat-rv-storage.md) | Winter boat and RV storage |
+| [campground.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/campground.md) | Campsites, RV sites, glamping, event camping |
+| [septic-inspections.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/septic-inspections.md) | Inspections required at shoreland property sales |
+| [firewood.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/firewood.md) | Seasoned and heat-treated firewood |
+| [snow-plowing.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/snow-plowing.md) | Town, school and commercial plowing bids |
+| [other-farm-ideas.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/other-farm-ideas.md) | Kennel, horse boarding, agritourism, mobile sawmill |
+| [grants.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/grants.md) | State and federal programs the remote partner can apply for |
+| [not-recommended.md](https://github.com/wbp318/bottle_recycling_2027/blob/main/ideas/not-recommended.md) | Ideas we checked and set aside, and why |

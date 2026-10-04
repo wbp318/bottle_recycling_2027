@@ -30,7 +30,7 @@ flowchart TD
 
 ## State rules at 5+ sites
 
-From [10-144 CMR ch. 205](https://www1.maine.gov/sos/sites/maine.gov.sos/files/content/assets/144c205.doc), with fees from the [HIP fee schedule](https://apps.web.maine.gov/dhhs/mecdc/environmental-health/el/site-files/forms/HIP%20FEE%20SCHEDULE%202020.pdf):
+From [10-144 CMR ch. 205](https://www1.maine.gov/sos/sites/maine.gov.sos/files/content/assets/144c205.doc), with fees from HIP's 2024 fee schedule ([Health Inspection Program](https://www.maine.gov/dhhs/mecdc/environmental-health/el/index.htm)). Larger campgrounds pay more: $240 for 25–124 sites and $270 for over 124.
 
 | Rule | Requirement |
 | --- | --- |
