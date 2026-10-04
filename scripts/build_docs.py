@@ -244,6 +244,7 @@ def build_badges():
         badge("charts", f"{count_charts()} Mermaid", "FF3670", f"{REPO}#diagrams", logo="mermaid"),
         badge("grants", "~90 programs", "8A2BE2", f"{REPO}/tree/main/grants"),
         badge("side businesses", "9 ideas", "orange", f"{REPO}/tree/main/ideas"),
+        badge("internships", "11 project pitches", "teal", f"{REPO}/tree/main/internships"),
     ]
     return "\n".join([BADGES_BEGIN, " ".join(live), "", " ".join(project), BADGES_END])
 

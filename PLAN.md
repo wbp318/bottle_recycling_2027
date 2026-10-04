@@ -527,6 +527,17 @@ We checked about 90 programs. True grants for a for-profit startup are rare: mos
 
 > **Keep the redemption center in its own LLC.** Farm programs won't fund the center, storage, or campsites, and mixing them puts the farm's eligibility at risk.
 
+## 7. Students and universities
+
+Maine's public universities can supply help we'd otherwise pay consultants for. The repo's [internships folder](https://github.com/wbp318/bottle_recycling_2027/tree/main/internships) has eleven ready-to-send project pitches, the programs that fit each, and the hiring rules.
+
+- **Free:** UMaine's Black Bear Consulting Corps (a five-week student team, free under 50 employees) for the market study; computer science capstones for the count dashboard and route optimizer; graduate research on the farm funded by SARE.
+- **Paid, close by:** UMA in Augusta requires a CIS internship for its bachelor's degree, and its online-first program suits a remote supervisor.
+- **Paid by others:** Maine Geospatial Institute interns ($19/hr, state-funded) for GIS site selection; Innovate for Maine fellows.
+- **Now:** UMaine forestry interviews for summer 2027 close in mid-November 2026. A woodlot plan from a forestry intern also qualifies the farm for WoodsWISE and NRCS cost-share.
+
+_Anything that is real work (counting, firewood, storage, production code) must be paid at least Maine's $15.10/hr minimum wage. Unpaid fits only credit-bearing projects directed by faculty._
+
 > **What made this look better than it is.** The Parish Brewing label that started this reads "OK+ 10¢ MI" because its deposit line was typed before 2011 and never fixed. It still lists Delaware, which repealed its deposit that year, and Oregon at 5¢, which changed in 2017. Oklahoma has never had a deposit law. The number on a label is not the law; the statutes above are.
 
 ## Sources
